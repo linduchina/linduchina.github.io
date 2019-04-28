@@ -1,1 +1,1 @@
-The blog theme is provided by Start Booststrap.
+The blog theme is provided by Start Bootstrap.
