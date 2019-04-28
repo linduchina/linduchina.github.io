@@ -1,0 +1,17 @@
+title:             Leo Blog
+email:             leodatafun@gmail.com
+description:       Have a Data Talk with Leo
+author:            Leo
+baseurl:           "/linduchina.github.io"
+url:               "http://linduchina.github.io"
+
+# Social Profiles
+github_username:   linduchina
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
